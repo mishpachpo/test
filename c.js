@@ -5,5 +5,5 @@ const b=()=>{
 return("abcd")
 }
 const c=()=>{
-    return("hello")
+    alert("hello")
 }

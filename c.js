@@ -4,3 +4,6 @@ alert("abc")
 const b=()=>{
 return("abcd")
 }
+const c=()=>{
+    return("hello")
+}
